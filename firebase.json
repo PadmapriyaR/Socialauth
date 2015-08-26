@@ -1,0 +1,9 @@
+{
+  "firebase": "teamprojects",
+  "public": "www",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
